@@ -1,0 +1,15 @@
+{
+    "dart.flutterSdkPath": "C:\\Users\\boypa\\flutter",
+    "dart.sdkPath": "C:\\Users\\boypa\\flutter\\bin\\cache\\dart-sdk",
+    "dart.flutterSdkPaths": [
+        "C:\\Users\\boypa\\flutter"
+    ],
+    "dart.lineLength": 80,
+    "dart.enableSdkFormatter": true,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "dart.closingLabels": true,
+    "dart.showInlineErrors": true,
+    "dart.analyzerPath": "C:\\Users\\boypa\\flutter\\bin\\cache\\dart-sdk\\bin\\dart",
+    "dart.flutterPath": "C:\\Users\\boypa\\flutter\\bin\\flutter.bat"
+}
